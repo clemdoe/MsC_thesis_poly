@@ -8,8 +8,8 @@
 ## 📌 Overview  
 This repository contains all data, code, and postprocessing scripts related to my thesis:  
 - **GeN-Foam** simulations (including input and output).  
-- **Custom code** THMprototype to model the thermohydraulics of BWR  
-- **Postprocessing** scripts generating figures in the thesis.  
+- **Open Source thermohydraulic code** THMprototype to model the thermohydraulics of BWR created during my master thesis
+- **Postprocessing** scripts generating figures in the thesis.
 - **Comparison data** between GeN-Foam and the prototype
 
 ---
