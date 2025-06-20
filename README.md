@@ -19,7 +19,7 @@ This repository contains all data, code, and postprocessing scripts related to m
 - `1_GeNFoam/`: simulations input and output files.  
 - `2_Input/`: scripts generating figures in the thesis and output of the GeN-Foam to compare GeN-Foam and THMprototype. It is the input for the THM python prototype and for some case containing the output of GeN-Foam simulations.
 - `3_Version5/`: the updated Version5 code to port the code THM_prototype to the THM: module of Donjon5
-- `4_Figures/`: figures showed in my thesis.
+- `4_Figures/Results`: figures showed in my thesis.
 - `5_docs/`: Thesis PDF and supporting references (publications, documentation).
 ---
 
