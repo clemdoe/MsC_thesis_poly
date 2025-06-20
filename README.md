@@ -1,6 +1,6 @@
 # Thesis Project: Development and Validation of a Simplified Thermal Hydraulics solver for the modelling of Boiling Water Reactor fuel channels in DONJON5  
 **Author**: Clément
-**Supervisor**: Alain Hébert, Cédric Begguin
+**Supervisor**: Alain Hébert, Cédric Beguin
 **Institution**: Polytechnique Montréal
 
 ---
