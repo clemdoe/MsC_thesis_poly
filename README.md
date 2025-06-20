@@ -17,7 +17,7 @@ This repository contains all data, code, and postprocessing scripts related to m
 ## 🗂 Folder Structure  
 - `0_THMprototype/`: developed to model the themrohydraulics of BWR.  
 - `1_GeNFoam/`: simulations input and output files.  
-- `2_Input/`: scripts generating figures in the thesis and output of the GeN-Foam to compare GeN-Foam and THMprototype. It is the input for the THM python prototype and for some case containing the output of GeN-Foam simulations.
+- `2_Output/`: scripts generating figures in the thesis and output of the GeN-Foam to compare GeN-Foam and THMprototype. It is the input for the THM python prototype and for some case containing the output of GeN-Foam simulations to do the comparison.
 - `3_Version5/`: the updated Version5 code to port the code THM_prototype to the THM: module of Donjon5
 - `4_Figures/Results`: figures showed in my thesis.
 - `5_docs/`: Thesis PDF and supporting references (publications, documentation).
